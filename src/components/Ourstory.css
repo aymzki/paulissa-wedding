@@ -1,7 +1,7 @@
 .ourstory-container {
     display: block;
     margin: 0 !important;
-    padding: 0 !important;
+    padding: 50px 0px 0px 0px;
     background-color: gainsboro;
 }
 .ourinfographic {
@@ -16,7 +16,7 @@
     
         .ourstory-container {
           margin: 0 !important;
-          padding: 0 !important;
+          padding: 50px 0px 0px 0px;
           width: 100%;
         }
         .ourinfographic {
