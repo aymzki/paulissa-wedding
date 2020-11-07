@@ -155,6 +155,7 @@
     .nav-links-mobile:hover {
       background: gainsboro;
       color: whitesmoke;
+      opacity: 0.8;
       transition: 250ms;
     }
   }

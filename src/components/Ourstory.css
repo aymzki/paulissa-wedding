@@ -1,0 +1,25 @@
+.ourstory-container {
+    display: block;
+    margin: 0 !important;
+    padding: 0 !important;
+    background-color: gainsboro;
+}
+.ourinfographic {
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+    @media screen and (max-width: 750px){
+    
+        .ourstory-container {
+          margin: 0 !important;
+          padding: 0 !important;
+          width: 100%;
+        }
+        .ourinfographic {
+            width: 100%;
+        }
+        }
