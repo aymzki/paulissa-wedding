@@ -3,7 +3,9 @@ import './Footer.css';
 
 function Footer () {
     return (
-        <div className='footer-container'></div>
+        <div className='footer-container'>
+            <p>made with <i 'fas fa-heart'/> by Alissa</p>
+        </div>
     )
 }
 
