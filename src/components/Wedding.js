@@ -10,13 +10,13 @@ export default function Wedding() {
         <div className="container">
           <img src={selectedImg} alt="Selected" className="selected" />
           <div className="imgContainer">
-            {Images.map((img, index) => (
+            {Images.map((wed, index) => (
               <img
-                style={{ border: selectedImg === img ? "4px solid gainsboro" : "" }}
+                style={{ border: selectedImg === wed ? "4px solid gainsboro" : "" }}
                 key={index}
-                src={img}
+                src={wed}
                 alt="photo"
-                onClick={() => setSelectedImg(img)}
+                onClick={() => setSelectedImg(wed)}
               />
             ))}
           </div>
