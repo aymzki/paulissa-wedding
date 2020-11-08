@@ -1,7 +1,18 @@
 .footer-container {
     background-color: whitesmoke;
-    padding: 4rem 0 2rem 0;
+    padding: 1rem 0 2rem 0;
     display: flex;
     justify-content: center;
     align-self: center;
+}
+
+p {
+color: grey;
+}
+
+a {
+color: grey;
+}
+a:hover {
+color: gainsboro;
 }

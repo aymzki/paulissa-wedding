@@ -4,7 +4,7 @@ import './Footer.css';
 function Footer () {
     return (
         <div className='footer-container'>
-            <p>made with <i 'fas fa-heart'/> by Alissa</p>
+            <p>illustrations, infographic, and website made with <i class="fas fa-heart"></i> by <a href="http://aymzki.github.io">Alissa</a></p>
         </div>
     )
 }
