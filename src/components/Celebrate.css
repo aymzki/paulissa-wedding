@@ -21,3 +21,16 @@ height: 500px;
     font-family: 'Bilbo Swash Caps', cursive;
     letter-spacing: 1px;
 }
+
+@media screen and (max-width: 750px){
+    .celebrate-container{
+        margin: auto; 
+        padding: 0;
+        }
+    .centerimg {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        justify-content: center;
+        }
+}
