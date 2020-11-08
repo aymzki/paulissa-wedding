@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/paulissa-wedding/static/css/main.fbc193fb.chunk.css",
-    "main.js": "/paulissa-wedding/static/js/main.247426ac.chunk.js",
-    "main.js.map": "/paulissa-wedding/static/js/main.247426ac.chunk.js.map",
+    "main.js": "/paulissa-wedding/static/js/main.0ed96d28.chunk.js",
+    "main.js.map": "/paulissa-wedding/static/js/main.0ed96d28.chunk.js.map",
     "runtime-main.js": "/paulissa-wedding/static/js/runtime-main.dd848043.js",
     "runtime-main.js.map": "/paulissa-wedding/static/js/runtime-main.dd848043.js.map",
     "static/js/2.6e5bfe07.chunk.js": "/paulissa-wedding/static/js/2.6e5bfe07.chunk.js",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.dd848043.js",
     "static/js/2.6e5bfe07.chunk.js",
     "static/css/main.fbc193fb.chunk.css",
-    "static/js/main.247426ac.chunk.js"
+    "static/js/main.0ed96d28.chunk.js"
   ]
 }
