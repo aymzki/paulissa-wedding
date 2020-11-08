@@ -20,5 +20,9 @@ color: gainsboro;
 @media screen and (max-width: 750px){
     .footer-container {
         padding: 1rem 2rem 2rem 2rem;
+        display: flex;
+        justify-content: center;
+        align-self: center;
     }
     }
+    
