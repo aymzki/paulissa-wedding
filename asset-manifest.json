@@ -1,22 +1,27 @@
 {
   "files": {
-    "main.css": "/paulissa-wedding/static/css/main.0a70b473.chunk.css",
-    "main.js": "/paulissa-wedding/static/js/main.f123e961.chunk.js",
-    "main.js.map": "/paulissa-wedding/static/js/main.f123e961.chunk.js.map",
+    "main.css": "/paulissa-wedding/static/css/main.06064b75.chunk.css",
+    "main.js": "/paulissa-wedding/static/js/main.cba1bd23.chunk.js",
+    "main.js.map": "/paulissa-wedding/static/js/main.cba1bd23.chunk.js.map",
     "runtime-main.js": "/paulissa-wedding/static/js/runtime-main.dd848043.js",
     "runtime-main.js.map": "/paulissa-wedding/static/js/runtime-main.dd848043.js.map",
-    "static/js/2.0712a769.chunk.js": "/paulissa-wedding/static/js/2.0712a769.chunk.js",
-    "static/js/2.0712a769.chunk.js.map": "/paulissa-wedding/static/js/2.0712a769.chunk.js.map",
+    "static/js/2.985a4606.chunk.js": "/paulissa-wedding/static/js/2.985a4606.chunk.js",
+    "static/js/2.985a4606.chunk.js.map": "/paulissa-wedding/static/js/2.985a4606.chunk.js.map",
     "index.html": "/paulissa-wedding/index.html",
-    "static/css/main.0a70b473.chunk.css.map": "/paulissa-wedding/static/css/main.0a70b473.chunk.css.map",
-    "static/js/2.0712a769.chunk.js.LICENSE.txt": "/paulissa-wedding/static/js/2.0712a769.chunk.js.LICENSE.txt",
+    "static/css/main.06064b75.chunk.css.map": "/paulissa-wedding/static/css/main.06064b75.chunk.css.map",
+    "static/js/2.985a4606.chunk.js.LICENSE.txt": "/paulissa-wedding/static/js/2.985a4606.chunk.js.LICENSE.txt",
+    "static/media/image1.caec929c.jpeg": "/paulissa-wedding/static/media/image1.caec929c.jpeg",
+    "static/media/image2.fd28b4dc.jpeg": "/paulissa-wedding/static/media/image2.fd28b4dc.jpeg",
+    "static/media/image3.fff9fe7c.jpeg": "/paulissa-wedding/static/media/image3.fff9fe7c.jpeg",
+    "static/media/image4.d4980e5b.jpeg": "/paulissa-wedding/static/media/image4.d4980e5b.jpeg",
+    "static/media/image6.e59992bf.jpeg": "/paulissa-wedding/static/media/image6.e59992bf.jpeg",
     "static/media/infographic.be82ed55.png": "/paulissa-wedding/static/media/infographic.be82ed55.png",
     "static/media/Hero.css": "/paulissa-wedding/static/media/main.2e0c782a.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.dd848043.js",
-    "static/js/2.0712a769.chunk.js",
-    "static/css/main.0a70b473.chunk.css",
-    "static/js/main.f123e961.chunk.js"
+    "static/js/2.985a4606.chunk.js",
+    "static/css/main.06064b75.chunk.css",
+    "static/js/main.cba1bd23.chunk.js"
   ]
 }
